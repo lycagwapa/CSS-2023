@@ -1,0 +1,37 @@
+
+            body {
+                background-image: url(purp.jpg);
+                background-repeat: no-repeat;
+                background-size: cover;
+                background-position: center;
+            }
+
+            /* Style the heading */
+            h1 {
+                text-align: center;
+                background-color: #E6E6FA; 
+                font-family: garamond; 
+                border: 2px dotted blue;
+                padding: 10px 15px;
+                width: 250px;
+                margin-bottom: 20px;
+            }
+
+            /* Style the paragraph */
+            p {
+                text-align: justify;
+                background-color: hsl(240, 67%, 94%);
+                font-style: italic;
+                padding: 20px;
+                border-width: 3px 5px 3px 1px; /* Top, Right, Bottom, Left */
+                border-style: solid double dashed dotted; 
+                width: 500px;
+            }
+
+            /* Style the span element */
+            span {
+                font-weight: bold;
+                font-style: italic;
+                color: rgb(128, 0, 128);
+                margin: 2px 5px; /* Top and Right margin */
+            }
